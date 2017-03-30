@@ -1,0 +1,11 @@
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\obj\Debug\Ass2_1.BL.csprojResolveAssemblyReference.cache
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.BL.dll.config
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.BL.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.BL.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.Models.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.Models.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\obj\Debug\Ass2_1.BL.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\obj\Debug\Ass2_1.BL.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.DLA.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\MySql.Data.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.BL\bin\Debug\Ass2_1.DLA.pdb

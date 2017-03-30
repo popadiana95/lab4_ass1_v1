@@ -1,0 +1,13 @@
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\UnitTest.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\UnitTest.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.BL.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.Models.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.DLA.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\MySql.Data.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.BL.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.Models.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\bin\Debug\Ass2_1.DLA.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\obj\Debug\UnitTest.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\UnitTest\obj\Debug\UnitTest.pdb

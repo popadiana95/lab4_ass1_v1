@@ -1,0 +1,6 @@
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\bin\Debug\Ass2_1.Models.dll.config
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\bin\Debug\Ass2_1.Models.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\bin\Debug\Ass2_1.Models.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\obj\Debug\Ass2_1.Models.dll
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\obj\Debug\Ass2_1.Models.pdb
+D:\Facultate\Semestrul 2\PS\Lab\New folder\Ass2_1\Ass2_1.Models\obj\Debug\Ass2_1.Models.csprojResolveAssemblyReference.cache
