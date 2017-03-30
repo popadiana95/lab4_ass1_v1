@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ass2_1.BL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -108,7 +109,7 @@ namespace Ass2_1
 
                 OrderDBManager odbm = new OrderDBManager();
                 odbm.UpdateOrder(order,idUser);
-                //EmptyControls();
+               
             }
             catch (Exception ex)
             {
@@ -125,7 +126,7 @@ namespace Ass2_1
 
                 OrderDBManager odbm = new OrderDBManager();
                 odbm.DeleteOrder(order, idUser);
-                //EmptyControls();
+                
             }
             catch (Exception ex)
             {
@@ -158,7 +159,7 @@ namespace Ass2_1
                 Console.Write(product.idProduct);
                 ProductDBManager pdbm = new ProductDBManager();
                 pdbm.UpdateProduct(product, idUser);
-                //EmptyControls();
+                
             }
             catch (Exception ex)
             {
@@ -175,7 +176,7 @@ namespace Ass2_1
 
                 ProductDBManager pdbm = new ProductDBManager();
                 pdbm.AddProduct(product, idUser);
-                //EmptyControls();
+                
             }
             catch (Exception ex)
             {
@@ -192,7 +193,7 @@ namespace Ass2_1
 
                 ProductDBManager pdbm = new ProductDBManager();
                 pdbm.DeleteProduct(product, idUser);
-                //EmptyControls();
+               
             }
             catch (Exception ex)
             {
@@ -213,8 +214,9 @@ namespace Ass2_1
             Order order = RetrieveOrderInformation();
             Product product = RetriveProductInformation();
             int q = RetriveQuantity();
-            OrderDBManager odbm = new OrderDBManager();
-            odbm.AddProductToOrder(order, product, q, idUser);
+            Orders o = new Orders();
+            string message = o.addProduct(order, product, q, idUser);
+            MessageBox.Show(message);
         }
 
         private void buttonAddOrder_Click(object sender, EventArgs e)

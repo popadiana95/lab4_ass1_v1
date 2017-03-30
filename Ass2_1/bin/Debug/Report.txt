@@ -1,65 +1,18 @@
 Employee activity1
-Data:3/28/2017 8:24:08 PM  UpdateOrder
-Data:3/28/2017 8:48:35 PM  Update order 1
-Data:3/28/2017 9:15:46 PM  Get all orders 
-Data:3/28/2017 9:17:11 PM  Get all orders 
-Data:3/28/2017 9:17:14 PM  Get order 3 details
-Data:3/28/2017 9:17:16 PM  Get order 1 details
-Data:3/28/2017 9:17:18 PM  Get order 4 details
-Data:3/28/2017 9:17:32 PM  Update order 4
-Data:3/28/2017 9:17:36 PM  Get all orders 
-Data:3/28/2017 9:17:39 PM  Get order 4 details
-Data:3/28/2017 9:17:46 PM  Update order 4
-Data:3/28/2017 9:17:47 PM  Get all orders 
-Data:3/28/2017 9:19:41 PM  Get all orders 
-Data:3/28/2017 9:19:42 PM  Get order 4 details
-Data:3/28/2017 9:19:48 PM  Update order 4
-Data:3/28/2017 9:19:49 PM  Get all orders 
-Data:3/28/2017 9:19:52 PM  Get all orders 
-Data:3/28/2017 9:19:57 PM  Delete order 1
-Data:3/28/2017 9:19:58 PM  Get all orders 
-Data:3/28/2017 9:20:26 PM  Update order 2
-Data:3/28/2017 9:20:27 PM  Get all orders 
-Data:3/28/2017 9:20:29 PM  Get all orders 
-Data:3/28/2017 9:20:30 PM  Update order 2
-Data:3/28/2017 9:21:49 PM  Get all orders 
-Data:3/28/2017 9:21:57 PM  Update order 2
-Data:3/28/2017 9:21:58 PM  Get all orders 
-Data:3/28/2017 9:22:01 PM  Get order 3 details
-Data:3/28/2017 9:22:02 PM  Get all orders 
-Data:3/28/2017 9:22:16 PM  Update order 2
-Data:3/28/2017 9:22:18 PM  Get all orders 
-Data:3/28/2017 9:23:05 PM  Get all orders 
-Data:3/28/2017 9:23:09 PM  Update order 2
-Data:3/28/2017 9:23:10 PM  Get all orders 
-Data:3/28/2017 9:28:50 PM  Get all orders 
-Data:3/28/2017 9:34:49 PM  Get all orders 
-Data:3/28/2017 9:35:18 PM  Add order 1
-Data:3/28/2017 9:35:33 PM  Add order 1
-Data:3/28/2017 9:39:00 PM  Get all orders 
-Data:3/28/2017 9:39:36 PM  Add order 2
-Data:3/28/2017 9:39:37 PM  Get all orders 
-Data:3/28/2017 9:41:12 PM  Get all products 
-Data:3/28/2017 9:41:22 PM  Get order 9 details
-Data:3/28/2017 9:41:26 PM  Add product 1 to order 9
-Data:3/28/2017 9:41:27 PM  Get order 4 details
-Data:3/28/2017 9:41:29 PM  Get order 9 details
-Data:3/28/2017 9:41:33 PM  Get all orders 
-Data:3/28/2017 9:42:26 PM  Get order 3 details
-Data:3/28/2017 9:42:27 PM  Get order 4 details
-Data:3/28/2017 9:43:01 PM  Update product 3
-Data:3/28/2017 9:43:10 PM  Update product 3
-Data:3/28/2017 9:43:11 PM  Get all products 
-Data:3/28/2017 9:43:54 PM  Update product 1
-Data:3/28/2017 9:44:08 PM  Update product 1
-Data:3/28/2017 9:44:12 PM  Update product 1
-Data:3/28/2017 9:44:24 PM  Add new product order 8
-Data:3/28/2017 9:44:25 PM  Get all products 
-Data:3/28/2017 9:44:39 PM  Update product 5
-Data:3/28/2017 9:44:41 PM  Get all products 
-Data:3/28/2017 9:44:47 PM  Delete product 8
-Data:3/28/2017 9:44:48 PM  Get all products 
-Data:3/28/2017 9:52:00 PM  Get all orders 
-Data:3/28/2017 9:52:27 PM  Get all products 
-Data:3/28/2017 9:52:29 PM  Get order 4 details
+Data:3/29/2017 7:59:36 PM  Get all orders 
+Data:3/29/2017 7:59:38 PM  Get order 3 details
+Data:3/29/2017 7:59:40 PM  Get order 4 details
+Data:3/29/2017 7:59:41 PM  Get order 9 details
+Data:3/29/2017 7:59:42 PM  Get order 2 details
+Data:3/29/2017 7:59:43 PM  Get all products 
+Data:3/29/2017 10:02:58 PM  Get all orders 
+Data:3/29/2017 10:03:01 PM  Get all products 
+Data:3/29/2017 11:10:31 PM  Get all orders 
+Data:3/29/2017 11:10:32 PM  Get all products 
+Data:3/29/2017 11:43:53 PM  Get all orders 
+Data:3/29/2017 11:43:56 PM  Get all products 
+Data:3/29/2017 11:44:11 PM  Update order 2
+Data:3/29/2017 11:44:12 PM  Get all orders 
+Data:3/29/2017 11:44:18 PM  Get order 3 details
+Data:3/29/2017 11:44:19 PM  Get order 4 details
 
